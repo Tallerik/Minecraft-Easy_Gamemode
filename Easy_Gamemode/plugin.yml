@@ -1,0 +1,14 @@
+name: Easy Gamemode
+author: Tallerik
+description: Setze dich mit /c in den Kreativ- und mit /s in den Ueberlebensmodus
+version: 1.0.0
+
+main: me.Tallerik.EasyGamemode.EasyGamemode
+
+commands:
+  c:
+    description: Setzt dich in den Kreativmodus
+    usage: /c
+  s:
+    description: Setzt dich in den Ueberlebensmodus
+    usage: /s

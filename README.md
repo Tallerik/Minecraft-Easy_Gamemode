@@ -1,3 +1,3 @@
 # Minecraft-Easy_Gamemode
-A little 1.8 Bukkit/Spigot Plugin to switch your gamemode easly
+A little 1.8 Bukkit/Spigot Plugin to switch your gamemode easly                   
 Bukkit Link: https://dev.bukkit.org/projects/easy-gamemode

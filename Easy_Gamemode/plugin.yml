@@ -12,3 +12,12 @@ commands:
   s:
     description: Setzt dich in den Ueberlebensmodus
     usage: /s
+  h:
+    description: Setzt dich in den Hardcoremodus
+    usage: /s
+  sp:
+    description: Setzt dich in den Spectatormodus
+    usage: /s
+  easygamemode:
+    description: Informationen zum Plugin. Fuer befehle /easygamemode help
+    usage: /easygamemode oder /easygamemode help

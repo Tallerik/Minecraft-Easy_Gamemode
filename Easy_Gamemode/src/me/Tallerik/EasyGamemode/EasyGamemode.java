@@ -62,7 +62,7 @@ public class EasyGamemode extends JavaPlugin
 		}
 		if(cmd.getName().equalsIgnoreCase("h"))
 		{
-			if(sender.hasPermission("EasyGM.s") || sender.hasPermission("EasyGM.cmd"))
+			if(sender.hasPermission("EasyGM.h") || sender.hasPermission("EasyGM.cmd"))
 			{
 				player.setGameMode(GameMode.ADVENTURE);
 				sender.sendMessage(prefix + "§bDu bist nun im HardCoremodus!");
@@ -74,7 +74,7 @@ public class EasyGamemode extends JavaPlugin
 		}
 		if(cmd.getName().equalsIgnoreCase("sp"))
 		{
-			if(sender.hasPermission("EasyGM.s") || sender.hasPermission("EasyGM.cmd"))
+			if(sender.hasPermission("EasyGM.sp") || sender.hasPermission("EasyGM.cmd"))
 			{
 				player.setGameMode(GameMode.SPECTATOR);
 				sender.sendMessage(prefix + "§bDu bist nun im Spectatormodus!");
